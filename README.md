@@ -1,4 +1,4 @@
-![github-cover.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35707eb0-8c49-430b-9c7a-b45b4743165a/github-cover.png)
+![github-cover.png](https://raw.githubusercontent.com/frogiedev/.github/main/github-cover.png)
 
 - 👋 Hi, I'm @frogiedev
 - 👀 I exist to propel you into the world of digital professions
