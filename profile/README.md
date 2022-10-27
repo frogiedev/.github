@@ -13,7 +13,7 @@
 The purpose of [frogie.dev](https://frogie.dev) is to **propel** as many people as possible into **digital professions** to support the economic development still in need of Tech talent.
 
 ## Founder's story & vision
-
+@jamalmatic
 > **Self-taught**, one word! **magic** for some, **rebel** for others. I am **self-taught**, that does not mean that I learned without the help of others, I simply choose what I learn, where and how I learn it.
 > 
 
