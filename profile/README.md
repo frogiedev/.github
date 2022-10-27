@@ -13,9 +13,15 @@
 The purpose of [frogie.dev](https://frogie.dev) is to **propel** as many people as possible into **digital professions** to support the economic development still in need of Tech talent.
 
 ## Founder's story & vision
-@jamalmatic
-> **Self-taught**, one word! **magic** for some, **rebel** for others. I am **self-taught**, that does not mean that I learned without the help of others, I simply choose what I learn, where and how I learn it.
-> 
+
+<div class="clearfix d-flex flex-wrap" style="margin: -1px">
+          <a class="" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/jamalmatic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/frogiedev/people/jamalmatic">
+            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/11278897?s=70&amp;v=4" width="35" height="35" alt="@jamalmatic">
+</a>
+</div>
+
+**Self-taught**, one word! **magic** for some, **rebel** for others. I am **self-taught**, that does not mean that I learned without the help of others, I simply choose what I learn, where and how I learn it.
+
 
 ### It’s Hard
 
