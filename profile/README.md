@@ -1,4 +1,4 @@
-![github-cover.png](https://raw.githubusercontent.com/frogiedev/.github/main/github-cover.png)
+![github-cover.png](https://raw.githubusercontent.com/frogiedev/.github/main/assets/github-cover.png)
 
 - 👋 Hi, I'm @frogiedev
 - 👀 I exist to propel you into the world of digital professions
