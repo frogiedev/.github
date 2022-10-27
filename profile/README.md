@@ -26,3 +26,7 @@ The purpose of [frogie.dev](https://frogie.dev) is to **propel** as many people 
 ### It’s Hard
 
 Since my young age! 👶🏻 I wanted to do things my way. Until the age of adolescence,  I was in the top three of my class, then I started skipping lessons,  I broke up with the smart guy 👨‍🎨 to become the one who does stupid things  👹. The day of the baccalaureate exam, 😌 I didn't even enter the school, I had a basketball game 🏀. So don't ask me if I got it, “Ah ! yes” the good news is that we won 👏 🎉.
+
+🙇🏻 My reason is deeper than a basketball game, I thought at the time that if I succeeded in school, I would have no choice but to be a civil servant behind a desk, and I would spend my life doing repetitive chores. this context is perhaps specific to my environment, my family, and my society `I am Moroccan` 🇲🇦.
+
+👨‍👨‍👦 It's very hard to find someone who believes in you, I don't know about you, but personally, I've always felt this need. But I still had faith in myself, … To be continued 🚀
