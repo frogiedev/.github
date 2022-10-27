@@ -12,4 +12,11 @@
 
 The purpose of [frogie.dev](https://frogie.dev) is to **propel** as many people as possible into **digital professions** to support the economic development still in need of Tech talent.
 
-Founder Vision
+## Founder's story & vision
+
+> **Self-taught**, one word! **magic** for some, **rebel** for others. I am **self-taught**, that does not mean that I learned without the help of others, I simply choose what I learn, where and how I learn it.
+> 
+
+### It’s Hard
+
+Since my young age! 👶🏻 I wanted to do things my way. Until the age of adolescence,  I was in the top three of my class, then I started skipping lessons,  I broke up with the smart guy 👨‍🎨 to become the one who does stupid things  👹. The day of the baccalaureate exam, 😌 I didn't even enter the school, I had a basketball game 🏀. So don't ask me if I got it, “Ah ! yes” the good news is that we won 👏 🎉.
